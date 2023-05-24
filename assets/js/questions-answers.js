@@ -3,7 +3,7 @@ const chatbotData = {
   "Olá": "Olá! Como posso ajudá-lo?",
   "Qual o seu nome?": "Meu nome é Chatbot!",
   "O que você faz?": "Eu sou um assistente virtual projetado para ajudá-lo.",
-  "Quem te criou?": "Fui criado por uma equipe de desenvolvedores.",
+  "Quem te criou?": "Fui criado por uma equipe de desenvolvedores do 1° semestre B de Sistemas de Informação da FSSS",
   "Qual a sua idade?": "Eu não tenho idade, sou um programa de computador.",
 
   //Mensagens sobre comunicação não agressiva//
